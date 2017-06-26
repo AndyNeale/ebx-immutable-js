@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.Item {
+  margin-bottom: 20px;
+}
+
+a {
+  border: 1px solid blue;
+  background: blue;
+  color: white;
+  border-radius: 3px;
+  padding: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+a:hover {
+  border: 1px solid red;
+  background: red;
+}
